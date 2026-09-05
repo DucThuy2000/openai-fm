@@ -69,3 +69,6 @@ For more information about text-to-speech using the OpenAI API, check out our [d
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+<!-- Security scan triggered at 2026-09-05 07:57:09 -->
